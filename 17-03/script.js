@@ -31,8 +31,8 @@ console.log(sum)
 */
 
 let number, elem;
-number = prompt();
-elem = prompt();
+number = prompt("Введите кол-во элементов");
+elem = prompt("Введите элемент");
 
 let myFunc=(num,element)=>{
     let arr=[];
