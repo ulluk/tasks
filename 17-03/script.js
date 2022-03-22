@@ -29,6 +29,7 @@ arr.forEach(function (item, index, arr) {
 })
 console.log(sum)
 */
+/*
 
 let number, elem;
 number = prompt("Введите кол-во элементов");
@@ -42,4 +43,6 @@ let myFunc=(num,element)=>{
     console.log(arr);
 }
 
-myFunc(number,elem);
+myFunc(number,elem);*/
+
+
