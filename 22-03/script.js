@@ -1,6 +1,6 @@
 let a = 4000;
 
-for (let i = 4000; i <= 8000 ; i+=4000) {
+for (let i = 4000; i <= 12000 ; i+=8000) {
     setTimeout(showMassage=()=>{
         console.log(`Hello after ${i/1000} seconds`);
     },i);
